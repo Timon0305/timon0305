@@ -19,6 +19,9 @@
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
 1. Web Development:
-Javascript(React.js, Angular.js, Vue.js, Electron.js, Express.js, Node.js)
+    React.js, Angular.js, Vue.js, Electron.js
 2. Mobile Development:
-React Native, Ionic, Android, Flutter, Swift
+    React Native, Ionic, Android, Flutter, Swift
+3. Backend Development:
+    Node.js, Express.js, Java SpringBoot, Django,
+4. Improving loading time, site stickiness and user engagement
