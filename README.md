@@ -42,16 +42,20 @@ Sincerely
 </p>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+</p>
 
 
 <div  align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <br />
- <p>
-Skype - https://join.skype.com/invite/Timon0305,
-</p>
+ <div align="left">
 <p>
-Outlook - <a href="timon0305@outlook.com"></a>
+Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
+
+<p>
+Outlook - <a href="">timon0305@outlook.com</a>
+</p>
+</div>
   </div>
