@@ -90,13 +90,17 @@ If my skills match your requirements, please contact me. Thanks.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
 
+<h4 align="center">GitHub Statistics:</h4>
 <p align="center">
 <a href="https://github.com/Timon0305">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Timon0305&theme=material-palenight"/>
 </p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
+
+
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
@@ -116,9 +120,6 @@ If my skills match your requirements, please contact me. Thanks.
  <div align="left">
 <p>
 Skype - https://join.skype.com/invite/uU331IODpYlM
-</p>
-<p>
-Discord -  https://discord.gg/nYXzaUS
 </p>
 <p>
 Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
