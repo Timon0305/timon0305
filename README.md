@@ -97,7 +97,7 @@ If my skills match your requirements, please contact me. Thanks.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
 </p>
 
 
