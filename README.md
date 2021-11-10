@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="49%" />
+<img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="49%" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="49%" height="200" />
 </p>
 
