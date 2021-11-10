@@ -1,6 +1,6 @@
 <p align="center">
-<img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="49%" />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="49%" height="200" />
+<img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
+
 </p>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" />
 </p>
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
