@@ -35,14 +35,22 @@ With 5 years of full-stack web development experience for global businesses, I o
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>Java SpringBoot <br />
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Django <br />
 4. Improving loading time, site stickiness and user engagement
-5. GitHub, BitBucket, GitLab, Devops
+5. Project Management: <br />
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>GitHub <br />
+    <code><img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="20" /></code>BitBucket <br />     
+ BitBucket, GitLab, Devops
 
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
 If my skills match your requirements, please contact me. Thanks.
 
-Sincerely
+<h2 align="center">Github stats </h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
+
 
 <p align="center">
 <a href="https://github.com/Timon0305">
