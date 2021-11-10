@@ -19,7 +19,10 @@
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
 1. Web Development: <br />
-    |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> React.js(React-redux, redux/toolkit, Next.js), Angular.js(NgXs, NgRx, SSR), Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework), Electron.js
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> React.js(React-redux, redux/toolkit, Next.js) <br /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width=40> Angular.js(NgXs, NgRx, SSR) <br /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" width=40> Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
+    Electron.js
 2. Mobile Development:
     React Native, Ionic, Android, Flutter, Swift
 3. Backend Development:
