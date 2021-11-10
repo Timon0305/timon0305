@@ -49,8 +49,9 @@ Sincerely
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <br />
  <p>
-Contact Me :
-Outlook - timon0305@outlook.com,
 Skype - https://join.skype.com/invite/Timon0305,
+</p>
+<p>
+Outlook - <a href="timon0305@outlook.com"></a>
 </p>
   </div>
