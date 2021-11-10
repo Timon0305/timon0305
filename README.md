@@ -55,7 +55,7 @@ Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
 
 <p>
-Outlook - <a href="">timon0305@outlook.com</a>
+Outlook - mailto:timon0305@outlook.com
 </p>
 </div>
   </div>
