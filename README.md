@@ -98,11 +98,9 @@ If my skills match your requirements, please contact me. Thanks.
 <p>
 Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
-<p>
-🐦 [Twitter](https://twitter.com/rainlink) | 💼 [Facebook](https://www.linkedin.com/in/oscar-1ms/)
-</p>
+
 <p>
 Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
 </p>
 </div>
-  </div>
+</div>
