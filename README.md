@@ -117,7 +117,9 @@ If my skills match your requirements, please contact me. Thanks.
 <p>
 Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
-
+<p>
+Discord -  https://discord.gg/nYXzaUS
+</p>
 <p>
 Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
 </p>
