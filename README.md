@@ -55,7 +55,7 @@ Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
 
 <p>
-Outlook - mailto:timon0305@outlook.com
+Outlook - window.location.href = mailto:timon0305@outlook.com
 </p>
 </div>
   </div>
