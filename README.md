@@ -22,7 +22,7 @@ With 5 years of full-stack web development experience for global businesses, I o
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React.js(React-redux, redux/toolkit, Next.js) <br /> 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> Angular.js(NgXs, NgRx, SSR) <br /> 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>Electron.js
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>Electron.js
 2. Mobile Development: <br />
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>React Native <br /> 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Ionic/Ionic.png"></code>Ionic <br />
@@ -62,6 +62,10 @@ If my skills match your requirements, please contact me. Thanks.
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=juicyfresh&no-bg=true" />
+
 
 
 <div  align="center">
