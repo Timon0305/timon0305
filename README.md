@@ -45,7 +45,7 @@ I enjoy the client-facing role and working closely with members to produce high-
 
 If my skills match your requirements, please contact me. Thanks.
 
-<h2 align="center">Github stats </h2>
+<h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
