@@ -98,7 +98,10 @@ If my skills match your requirements, please contact me. Thanks.
 </a>
 </p>
 
+<p align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
+</p>   
 
 
 <p align="centre">
