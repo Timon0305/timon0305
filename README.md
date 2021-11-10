@@ -1,3 +1,5 @@
+![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
 <p align="center">
 <img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
 
@@ -76,7 +78,9 @@ If my skills match your requirements, please contact me. Thanks.
 <p>
 Skype - https://join.skype.com/invite/uU331IODpYlM
 </p>
-
+<p>
+🐦 [Twitter](https://twitter.com/rainlink) | 💼 [Facebook](https://www.linkedin.com/in/oscar-1ms/)
+</p>
 <p>
 Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
 </p>
