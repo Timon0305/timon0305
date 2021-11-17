@@ -48,7 +48,7 @@ With 5 years of full-stack web development experience for global businesses, I o
     PostgreSQL <br />
     OracleDB <br />
 7. BlockChain <br />
-    Token, ICO, NFT, DEFI, Smart Contract, Solidity
+    Token, ICO, NFT, DEFI, Smart Contract, Solidity <br />
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
