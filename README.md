@@ -18,37 +18,45 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" />
 </p>
 
-With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+I have experiences with building new tokens, auto trading bot, DEX fork, NFT marketplace, smart contract, and DApps in Cardano, Ethereum, Binance Smart Chain, Matic/Polygon, and Solana blockchains.
 
-1. Web Development: <br />
+1. BlockChain <br />
+    - Smart contract development using Solidity and Haskell (3 years) <br />
+    - Hardhat, Truffle <br />
+    - Binance smartchain, uniswap folk <br />
+    - DeFi, Dex <br />
+    - ERC20, ERC721 <br />
+    - NFT Minting <br />
+    - Solana, Rust <br />
+    - Integrating frontend with web3 (3 years) <br />
+    
+2. Web Development: <br />
     React.js(React-redux, redux/toolkit, Next.js) <br /> 
     Angular.js(NgXs, NgRx, SSR) <br /> 
     Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
     Electron.js
-2. Mobile Development: <br />
+3. Mobile Development: <br />
     React Native <br /> 
     Ionic Framework<br />
     Android <br /> 
     Flutter <br /> 
     Swift <br />
-3. Backend Development: <br />
+4. Backend Development: <br />
     Node.js <br /> 
     Express.js <br />
     Java SpringBoot <br />
     Django <br />
-4. Improving loading time, site stickiness and user engagement <br />
-5. Project Management: <br />
+5. Improving loading time, site stickiness and user engagement <br />
+6. Project Management: <br />
     GitHub <br />
     BitBucket <br />
     GitLab <br /> 
     Devops
-6. Database: <br />
+7. Database: <br />
     MySQL <br />
     MongoDB <br />
     PostgreSQL <br />
     OracleDB <br />
-7. BlockChain <br />
-    Token, ICO, NFT, DEFI, Smart Contract, Solidity <br />
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
