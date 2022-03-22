@@ -1,7 +1,7 @@
 ![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 <p align="center">
-<img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
+<img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="500" width="100%" />
 
 </p>
 
@@ -14,44 +14,80 @@
   
 </h1>
 
-<p align="center">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" />
-</p>
 
-With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+<h2>[BLOCHCHAIN]</h2>
+I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
+I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
+<br>
+   &nbsp; &nbsp;    1. Smart contract development  in networks (Ethereum, BSC, Matic/Polygon & 		Vechain) by using Solidity.
+<br>
+ &nbsp; &nbsp;       2. Cardano smart contract by using Haskell and CosmWasm smart contract by using
+          Rust CosmWasm.
+<br>
+ &nbsp; &nbsp;      3. Solana smart contract development (Unit test, Solana-program-library, Solana-  
+         web3, Raydium integration) by using Rust and Anchor framework
+<br>
+  &nbsp; &nbsp;     4. Front-end development interactive with smart contract by using Web3, truffle, 
+	React/Redux, Angular and Vue.
+<br>
+  &nbsp; &nbsp;    5. ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), 
+         Hyperledger Fabric
+<br>
+  &nbsp; &nbsp;     6. NFT minting and NFT marketplace development(Create listing by admin, flat & 
+	Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
+ <br> &nbsp; &nbsp;  	-   Minter in Candy machine and 10% royalty moved to burn and other wallets
+<br>  &nbsp; &nbsp;  	-   Burn mechanism with kind of sharing rewards back to the holders
+ <br> &nbsp; &nbsp; 	-   Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to
+	    IPFS
+<br>
+   &nbsp; &nbsp;    7. Bot development for sale monitoring bot OS and Niftygateway
+<br>
+   &nbsp; &nbsp;    8. Cryto game development with crypto payment gateway
 
-1. Web Development: <br />
-    React.js(React-redux, redux/toolkit, Next.js) <br /> 
-    Angular.js(NgXs, NgRx, SSR) <br /> 
-    Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
-    Electron.js
-2. Mobile Development: <br />
-    React Native <br /> 
-    Ionic Framework<br />
-    Android <br /> 
-    Flutter <br /> 
-    Swift <br />
-3. Backend Development: <br />
-    Node.js <br /> 
-    Express.js <br />
-    Java SpringBoot <br />
-    Django <br />
-4. Improving loading time, site stickiness and user engagement <br />
-5. Project Management: <br />
-    GitHub <br />
-    BitBucket <br />
-    GitLab <br /> 
-    Devops
-6. Database: <br />
-    MySQL <br />
-    MongoDB <br />
-    PostgreSQL <br />
-    OracleDB <br />
+<h2>[WEB & MOBILE]</h2>  
+ I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
 
-As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
-I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
+ <br>
+    &nbsp; &nbsp;    1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
+         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
+    
+ <br>
+    &nbsp; &nbsp;     2.  Web service: XML/JSON, REST/SOAP
+  
+<br>
+   &nbsp; &nbsp;       3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
+ 
+ <br>
+    &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
+   
+ <br>
+    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
+ 
+  <br>
+     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
 
-If my skills match your requirements, please contact me. Thanks.
+ <br>
+    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
+	Communication: Twillio, Heroku, Tokbox
+
+ <br>
+    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
+  
+ <br>
+    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
+ 
+ <br>
+    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+
+ <br>
+    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
+  
+ <br>
+    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
+ 
+
+ <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
+
 
 ### - Languages and Tools...
 
