@@ -19,67 +19,9 @@
 </p>
 
 
-[BLOCKCHAIN]
-I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
-I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
 
-      1. Smart contract development  in networks (Ethereum, BSC, Matic/Polygon & 		Vechain) by using Solidity.
-
-      2. Cardano smart contract by using Haskell and CosmWasm smart contract by using
-          Rust CosmWasm.
-
-     3. Solana smart contract development (Unit test, Solana-program-library, Solana-  
-         web3, Raydium integration) by using Rust and Anchor framework
-
-     4. Front-end development interactive with smart contract by using Web3, truffle, 
-	React/Redux, Angular and Vue.
-
-     5. ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), 
-         Hyperledger Fabric
-
-     6. NFT minting and NFT marketplace development(Create listing by admin, flat & 
-	Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
-  	-   Minter in Candy machine and 10% royalty moved to burn and other wallets
-  	-   Burn mechanism with kind of sharing rewards back to the holders
- 	-   Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to
-	    IPFS
-
-     7. Bot development for sale monitoring bot OS and Niftygateway
-
-     8. Cryto game development with crypto payment gateway
      
-     
-[WEB & MOBILE]
 
- I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
-
-     1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
-         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
-     
-     2.  Web service: XML/JSON, REST/SOAP
-    
-     3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
-   
-     4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
-   
-     5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
-   
-     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
-   
-     7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
-	Communication: Twillio, Heroku, Tokbox
-
-     8. Speech recognition, text-to-speech, Siri, OpenEar
-   
-     9. HTML5, PHP, Javascript and their frameworks
-   
-    10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-   
-    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
-   
-    12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
-   
-    13. JIRA, Trello, Github, BitBucket, Gitlab
 ![image](https://user-images.githubusercontent.com/59460476/159562712-392cf9e4-1d03-45a1-b475-4460d768e1f7.png)
 
 ![image](https://user-images.githubusercontent.com/59460476/159562598-85f08051-81b8-4b72-b57f-08924d4ed821.png)
