@@ -67,7 +67,7 @@ I have worked on coding and business start-up projects related to blockchain and
  - Wallet connection using web3.js or ether.js
 
 <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
+    &nbsp; &nbsp;  
 ✓ NFT minting & staking, marketplace Development
 
 <br>
