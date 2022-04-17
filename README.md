@@ -16,30 +16,31 @@
 I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
 I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
 <br>
-   &nbsp; &nbsp;    1. Smart contract development  in networks (Ethereum, BSC, Matic/Polygon & 		Vechain) by using Solidity.
-<br>
- &nbsp; &nbsp;       2. Cardano smart contract by using Haskell and CosmWasm smart contract by using
-          Rust CosmWasm.
-<br>
- &nbsp; &nbsp;      3. Solana smart contract development (Unit test, Solana-program-library, Solana-  
-         web3, Raydium integration) by using Rust and Anchor framework
-<br>
-  &nbsp; &nbsp;     4. Front-end development interactive with smart contract by using Web3, truffle, 
-	React/Redux, Angular and Vue.
-<br>
-  &nbsp; &nbsp;    5. ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), 
-         Hyperledger Fabric
-<br>
-  &nbsp; &nbsp;     6. NFT minting and NFT marketplace development(Create listing by admin, flat & 
-	Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
- <br> &nbsp; &nbsp;  	-   Minter in Candy machine and 10% royalty moved to burn and other wallets
-<br>  &nbsp; &nbsp;  	-   Burn mechanism with kind of sharing rewards back to the holders
- <br> &nbsp; &nbsp; 	-   Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to
-	    IPFS
-<br>
-   &nbsp; &nbsp;    7. Bot development for sale monitoring bot OS and Niftygateway
-<br>
-   &nbsp; &nbsp;    8. Cryto game development with crypto payment gateway
+   &nbsp; &nbsp;    ✓ Smart Contract Development
+ - ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.
+ - Contract Test and Audit in development environment by using Truffle, Hardhat
+ - Anti-Bot, Whitelist functions integration for Token, NFT contracts
+ - Wrap Token Contract development from BTC, NDAU, Doge, etc.
+✓ Smart Contract Audits
+ - Code checking line by line
+ - High/Middle/Low level severity Audit test on the testnet, devnet
+ - Provide audit with functional example
+✓ Defi/ DApp Development
+ - Forking Dex tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement
+ - Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development)
+ - ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist
+ - Wallet connection using web3.js or ether.js
+✓ NFT minting & staking, marketplace Development
+ - Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network
+ -  P2E (Play to Earn) contract development
+✓ Cross-Chain-Bridge Development.
+ - Child Token, Bridge Contract development
+ - Relay service integration like Moralis, Chainlink, Chainstack
+ - Well-made Cross-Bridge DApp development using react.js, web3.js, MongoDB
+ ✓ CEX Development 
+ - Spot & Margin Trading option, Multi-Chain Support
+ - Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money Api integration
+ - Well-Structured DB Design
 
 <h2>[WEB & MOBILE]</h2>  
  I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
