@@ -17,30 +17,101 @@ I am an experienced developer with a solid background in software development, c
 I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
 <br>
    &nbsp; &nbsp;    ✓ Smart Contract Development
+   <br>
+    &nbsp; &nbsp; 
  - ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.
+ <br>
+    &nbsp; &nbsp; 
  - Contract Test and Audit in development environment by using Truffle, Hardhat
+ <br>
+    &nbsp; &nbsp; 
  - Anti-Bot, Whitelist functions integration for Token, NFT contracts
+<br>
+    &nbsp; &nbsp; 
  - Wrap Token Contract development from BTC, NDAU, Doge, etc.
+
+<br>
+    &nbsp; &nbsp; 
 ✓ Smart Contract Audits
+
+<br>
+    &nbsp; &nbsp; 
  - Code checking line by line
+
+<br>
+    &nbsp; &nbsp; 
  - High/Middle/Low level severity Audit test on the testnet, devnet
+
+<br>
+    &nbsp; &nbsp; 
  - Provide audit with functional example
+
+<br>
+    &nbsp; &nbsp; 
 ✓ Defi/ DApp Development
+
+<br>
+    &nbsp; &nbsp; 
  - Forking Dex tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement
+
+<br>
+    &nbsp; &nbsp; 
  - Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development)
+
+<br>
+    &nbsp; &nbsp; 
  - ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist
+
+<br>
+    &nbsp; &nbsp; 
  - Wallet connection using web3.js or ether.js
+
+<br>
+    &nbsp; &nbsp; 
 ✓ NFT minting & staking, marketplace Development
+
+<br>
+    &nbsp; &nbsp; 
  - Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network
+
+<br>
+    &nbsp; &nbsp; 
  -  P2E (Play to Earn) contract development
+
+<br>
+    &nbsp; &nbsp; 
 ✓ Cross-Chain-Bridge Development.
+
+<br>
+    &nbsp; &nbsp; 
  - Child Token, Bridge Contract development
+
+<br>
+    &nbsp; &nbsp; 
  - Relay service integration like Moralis, Chainlink, Chainstack
+
+<br>
+    &nbsp; &nbsp; 
  - Well-made Cross-Bridge DApp development using react.js, web3.js, MongoDB
+
+<br>
+    &nbsp; &nbsp; 
  ✓ CEX Development 
+ 
+ <br>
+    &nbsp; &nbsp; 
  - Spot & Margin Trading option, Multi-Chain Support
+
+<br>
+    &nbsp; &nbsp; 
  - Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money Api integration
+
+<br>
+    &nbsp; &nbsp; 
  - Well-Structured DB Design
+
+<br>
+    &nbsp; &nbsp; 
 
 <h2>[WEB & MOBILE]</h2>  
  I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
