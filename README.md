@@ -214,8 +214,6 @@ I have worked on coding and business start-up projects related to blockchain and
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=juicyfresh&no-bg=true" />
 
 ##  📊 Stats
 
