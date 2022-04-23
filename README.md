@@ -206,7 +206,8 @@ I have worked on coding and business start-up projects related to blockchain and
    ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
 </p>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
 
 <p align="centre">
  
