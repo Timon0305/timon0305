@@ -209,6 +209,9 @@ I have worked on coding and business start-up projects related to blockchain and
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
+
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
