@@ -206,6 +206,8 @@ I have worked on coding and business start-up projects related to blockchain and
    ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
 </p>
 
+<img src="https://camo.githubusercontent.com/31cbfe125c379f43dbbdfdfe618fb5f49dc2c846c69058b717547109bbd1c0a1/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d686963637570736f6674267468656d653d72656163742d6461726b26686964655f626f726465723d74727565" alt="activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Timon0305&amp;theme=react-dark&amp;hide_border=true" style="max-width: 100%;">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
 
