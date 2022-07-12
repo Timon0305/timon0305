@@ -11,7 +11,7 @@
   
 </h1>
 
-<h2>[BLOCHCHAIN]</h2>
+<h2>[BLOCKCHAIN]</h2>
 I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
 I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
 <br>
