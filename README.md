@@ -11,6 +11,51 @@
   
 </h1>
 
+<h2>[WEB & MOBILE]</h2>  
+ I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
+
+ <br>
+    &nbsp; &nbsp;    1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
+         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
+    
+ <br>
+    &nbsp; &nbsp;     2.  Web service: XML/JSON, REST/SOAP
+  
+<br>
+   &nbsp; &nbsp;       3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
+ 
+ <br>
+    &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
+   
+ <br>
+    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
+ 
+  <br>
+     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
+
+ <br>
+    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
+	Communication: Twillio, Heroku, Tokbox
+
+ <br>
+    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
+  
+ <br>
+    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
+ 
+ <br>
+    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+
+ <br>
+    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
+  
+ <br>
+    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
+ 
+
+ <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
+<br>    &nbsp; &nbsp;
+
 <h2>[BLOCKCHAIN]</h2>
 I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
 I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
@@ -112,49 +157,7 @@ I have worked on coding and business start-up projects related to blockchain and
 <br>
     &nbsp; &nbsp; 
 
-<h2>[WEB & MOBILE]</h2>  
- I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
 
- <br>
-    &nbsp; &nbsp;    1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
-         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
-    
- <br>
-    &nbsp; &nbsp;     2.  Web service: XML/JSON, REST/SOAP
-  
-<br>
-   &nbsp; &nbsp;       3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
- 
- <br>
-    &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
-   
- <br>
-    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
- 
-  <br>
-     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
-
- <br>
-    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
-	Communication: Twillio, Heroku, Tokbox
-
- <br>
-    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
-  
- <br>
-    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
- 
- <br>
-    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-
- <br>
-    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
-  
- <br>
-    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
- 
-
- <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
 
 
 
