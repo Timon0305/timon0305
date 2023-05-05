@@ -106,7 +106,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 ##  My Github Activity
-<p align="centre">
+<p align="centre" style="text-align: center;">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=onedark"/>
 </p>
 
