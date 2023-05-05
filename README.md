@@ -75,11 +75,11 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </a>
 </p>
 <p align="center">
-<center>
+
 
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
 
- <center>
+
 
 
 </p>
@@ -90,8 +90,12 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 <br />
 <br />
+<p align="center">
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
+
+</p>
 
 
 
