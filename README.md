@@ -106,7 +106,10 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 <p align="centre">
- 
+ <img
+		align="center"
+		src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=onedark"
+	/>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Timon0305&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
