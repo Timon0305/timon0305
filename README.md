@@ -134,12 +134,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 </p>
 <br />
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
 
 
 <p align="center">
