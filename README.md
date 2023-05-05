@@ -27,7 +27,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-## Languages and Tools...
+## :sparkles: Languages and Tools...
+
 
 <p align="center">
 
@@ -75,7 +76,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
   <br />
 </p>
 
-<h2 align="">Github stats </h2>
+<h2 align=""> :sparkles: Github stats </h2>
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -105,7 +107,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-##  My Github Activity
+## :sparkles: My Github Activity
+
 <p align="center" dir="auto" style="text-align:center;">
 
 
@@ -113,17 +116,16 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </p>
 
 
-##  📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/Timon0305?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Timon0305)
+## :sparkles: Happy Writing
 
-##  Happy Writing 
 <p align="center" dir="auto" style="text-align:center;">
 
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
 </p>
 
-### :sparkles: My followers
+## :sparkles: My top followers
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
