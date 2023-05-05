@@ -115,6 +115,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 [![Metrics](https://metrics.lecoq.io/Timon0305?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Timon0305)
 
+<h3>Happy Writing <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 
 <div  align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
