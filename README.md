@@ -27,7 +27,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-## :sparkles: Languages and Tools...
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools...
+
 
 
 <p align="center">
@@ -76,14 +77,16 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
   <br />
 </p>
 
-<h2 align=""> :sparkles: Github stats </h2>
+<h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github stats </h2>
+
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
 
-<h2 align=""> :sparkles: GitHub Statistics:</h2>
+<h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics:</h2>
+
 
 <p align="center">
 <a href="https://github.com/Timon0305">
@@ -108,7 +111,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-## :sparkles: My Github Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Activity
+
 
 <p align="center" dir="auto" style="text-align:center;">
 
@@ -118,14 +122,16 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-## :sparkles: Happy Writing
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Happy Writing
+
 
 <p align="center" dir="auto" style="text-align:center;">
 
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
 </p>
 
-## :sparkles: My top followers
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My top followers
+
 
 <!--START_SECTION:top-followers-->
 <table>
