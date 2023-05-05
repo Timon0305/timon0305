@@ -75,10 +75,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </a>
 </p>
 <p align="center">
-
-
-![img](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
-
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)" alt="Timon0305's github stats" />
 
 
 
@@ -89,14 +86,11 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </p>
 
 <br />
-<br />
 <p align="center">
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
 
 </p>
-
 
 
 <p align="centre">
