@@ -1,4 +1,5 @@
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+![Zilin Jin](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
 
 
 
@@ -30,30 +31,33 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 <p align="center">
 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Timon0305)](https://gitlab.com/Timon0305)
+
   
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/Timon0305) 
-  
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/Timon0305) 
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/Timon0305)](https://github.com/Timon0305)
+[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/Timon0305)](https://gitlab.com/Timon0305)
+
 
 </p>
 
@@ -69,11 +73,21 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+<p align="center">
+<center>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
+![img](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
+
+ <center>
+
+
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
+<br />
+<br />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
 
 
