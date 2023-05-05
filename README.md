@@ -117,7 +117,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 <p align="center" dir="auto" style="text-align:center;">
 
 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=onedark"/>
+   <img alig src="https://github-profile-trophy.vercel.app/?username=Timon0305&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
