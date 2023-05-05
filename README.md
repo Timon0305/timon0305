@@ -83,7 +83,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
 
-<h2 align="">GitHub Statistics:</h2>
+<h2 align=""> :sparkles: GitHub Statistics:</h2>
+
 <p align="center">
 <a href="https://github.com/Timon0305">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
