@@ -123,6 +123,113 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
 </p>
 
+### :sparkles: My followers
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/xSomoy">
+        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
+      </a>
+      <br />
+      <a href="https://github.com/xSomoy">Somoy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushbanik1">
+        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mgmgpyaesonewin">
+        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
+      </a>
+      <br />
+      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZoeDreams">
+        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoannc54">
+        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smithg09">
+        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
+      </a>
+      <br />
+      <a href="https://github.com/smithg09">Smith Gajjar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fikritrader">
+        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      </a>
+      <br />
+      <a href="https://github.com/fikritrader">fikritrader</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iwancilibur">
+        <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
+      </a>
+      <br />
+      <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sheheryar17">
+        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
+      </a>
+      <br />
+      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yusuf1n">
+        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/XuanToa">
+        <img src="https://avatars2.githubusercontent.com/u/25999210" width="100px;" alt="XuanToa"/>
+      </a>
+      <br />
+      <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SourabhSaha71">
+        <img src="https://avatars2.githubusercontent.com/u/56047879" width="100px;" alt="SourabhSaha71"/>
+      </a>
+      <br />
+      <a href="https://github.com/SourabhSaha71">Sourabh Saha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ARAV0411">
+        <img src="https://avatars2.githubusercontent.com/u/58031492" width="100px;" alt="ARAV0411"/>
+      </a>
+      <br />
+      <a href="https://github.com/ARAV0411">ARAVINDHAN R</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abhi36rai">
+        <img src="https://avatars2.githubusercontent.com/u/45686729" width="100px;" alt="abhi36rai"/>
+      </a>
+      <br />
+      <a href="https://github.com/abhi36rai">abhi36rai</a>
+    </td>
+  </tr>
+</table>
+
 
 <div  align="center">
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
