@@ -85,7 +85,6 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
 </p>
 
-<br />
 <p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
