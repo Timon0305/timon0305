@@ -133,7 +133,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
   </a>
 
 </p>
-<br />
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 
