@@ -77,6 +77,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 <p align="center">
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)" alt="Timon0305's github stats" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
+
 
 
 </p>
