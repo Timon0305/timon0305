@@ -111,6 +111,8 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/blob/profile-night-rainbow.svg"><img src="/JayantGoel001/JayantGoel001/raw/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" style="max-width: 100%;"></a></p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Activity
 
 
