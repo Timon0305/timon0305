@@ -72,7 +72,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 
-
+  <br />
 </p>
 
 <h2 align="">Github stats </h2>
@@ -107,10 +107,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 ##  My Github Activity
 <p align="centre">
- <img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=onedark"
-	/>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=Timon0305&theme=onedark"/>
 </p>
 
 
