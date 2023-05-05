@@ -27,7 +27,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 
 
-### - Languages and Tools...
+## Languages and Tools...
 
 <p align="center">
 
@@ -75,13 +75,13 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="">Github stats </h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
 
-<h4 align="center">GitHub Statistics:</h4>
+<h2 align="">GitHub Statistics:</h2>
 <p align="center">
 <a href="https://github.com/Timon0305">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
