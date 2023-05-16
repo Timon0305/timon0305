@@ -1,6 +1,60 @@
 ![Zilin Jin](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 
+mindmap
+  root((Tiger))
+    🐣 Bangkok, Thailand 🇹🇭
+        (🏫Sarasas Witead Romklao)
+        (🏫Assumption College)
+    Invercargill, New Zealand 🇳🇿
+        (🏫James Hargest College)
+            🍳Pascal/Delphi
+    Personal Projects
+        Websites
+            🍳Flutter/Dart
+            🍳Vue/NextJS
+            🍳GitHub Actions
+        🍳CircleCI
+    Raleigh, North Carolina 🇺🇸
+        (🏫North Carolina State University)
+            📚Computer Science Minor
+                🍳Java/Eclipse
+                🍳Python
+                🍳Unit Tests
+                🍳Continuous Integration
+                🍳HTML/CSS
+                🍳GitHub
+            📚Industrial and Systems Engineering Major
+                🍳Human Factors and Ergonomics
+                🍳VisualBasic for Applications
+                🍳Fusion 360
+                🍳3D Printing
+        ((🏙️Red Hat))
+            💼Technical Marketing Internship
+                🍳Red Hat Product Demo System
+                🍳ASCIIDoc
+                🍳OpenShift
+                🍳Blogging
+                🍳Ansible
+                🍳Trello
+           💼Software Engineer
+                🧑‍🤝‍🧑Migration and Modernization Engineering
+                    **OpenShift API for Data Protection**
+                        🍳Golang
+                        🍳Containers
+                        🍳OpenShift/Kubernetes
+                            🍳Prow
+                            🍳Velero
+                        🍳Jira
+                        🍳Travis
+        (🏙️Deutsche Bank)
+            💼dbAchieve Internship
+                🍳SpringBoot
+                🍳Maven
+                🍳Confluence
+                🍳Oracle SQL
+                🍳AngularJS
+                🍳BitBucket
 
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
